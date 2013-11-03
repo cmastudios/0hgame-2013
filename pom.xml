@@ -6,7 +6,7 @@
 	<version>2013-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>A Slick2d game</name>
+	<name>0hgame 2013</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
